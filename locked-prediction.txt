@@ -1,0 +1,10 @@
+LOCKED CHANGED-INPUT PREDICTION — AI OFF
+
+Timestamp: 7:49pm 10-19-2026 
+Pre-run commit hash:
+Input selected: WACC
+Old value and units: 8.79%
+New value and units: 9% 
+
+My prediction, written before execution:
+The value per share should fall because the new WACC being tested in higher, but not enough for the initial WATCH/DEFER to change.
